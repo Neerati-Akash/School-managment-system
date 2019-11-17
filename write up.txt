@@ -1,0 +1,4 @@
+1)Used getter and setter methods
+2)use Static class to change values of one class through   another class.
+3)use of array lists..so that we can add whenever we want
+  ,no need to mention size
